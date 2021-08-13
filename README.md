@@ -2,7 +2,7 @@
 
 ### About 😇
 
-My name is **Mohammad Ebrahimi**. I study medicine at Mashhad University of Medical Scienses. I like Linux and other free (as freedom) softwares.
+My name is **Mohammad Ebrahimi**. I study medicine at Mashhad University of Medical Sciences. I like Linux and other free (as freedom) softwares.
 
 ![Mohammad Ebrahimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=moheb2000&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
