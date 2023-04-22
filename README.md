@@ -16,5 +16,5 @@ My name is **Mohammad Ebrahimi**. I study medicine at Mashhad University of Medi
 
 ### OpenPGP Public Key 🔑
 
-You can see my OpenPGP public key ![HERE](https://gist.githubusercontent.com/moheb2000/a685bb52080927a608062bd782411b45/raw/8565da80ed430422711d664b7ff5533885388944/gnupg_public_key.pub).
+You can see my OpenPGP public key ![HERE](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0xfed447125ee08beadfe4d123b1e74f4bd50c220d).
 
