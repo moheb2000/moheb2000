@@ -84,6 +84,11 @@
 
 <div align="left">
   <a href="https://github.com/moheb2000" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=moheb2000&show_icons=true" alt="Mohammad Ebrahimi's GitHub stats" /></a>
+</div>
+
+###
+
+<div align="left">
   <a href="https://github.com/moheb2000" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moheb2000&hide=css,html" alt="Top Langs" /></a>
 </div>
 
