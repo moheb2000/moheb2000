@@ -10,6 +10,7 @@
 
 <div align="center">
   <a href="https://matrix.to/#/@moheb2000:wiiz.ir" target="_blank"><img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" alt="matrix logo" /></a>
+  <a href="xmpp:moheb2000@hookipa.net?message" target="_blank"><img src="https://img.shields.io/static/v1?message=Xmpp&logo=xmpp&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" alt="xmpp logo" /></a>
   <a href="https://fosstodon.org/@moheb2000" target="_blank"><img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="mastodon logo" /></a>
   <a href="mailto:ebrahimim79@duck.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="email logo" />
